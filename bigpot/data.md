@@ -12,3 +12,4 @@ inital waterlevel: 20 cm
 
 date;ec;ph
 2021-05-30;1.422;
+2021-06-05;1.592;
