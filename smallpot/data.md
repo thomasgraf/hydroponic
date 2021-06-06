@@ -12,7 +12,7 @@ inital waterlevel: 15cm
 
 date;ec;ph;waterlevel
 2021-06-05;1.335;;
-2021-06-06;1.838;150mm
+2021-06-06;1.838;150
 
 
 date;base;grow;bloom;type
