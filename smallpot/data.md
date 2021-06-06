@@ -1,18 +1,20 @@
 sizes:
 
-xx cm 
-xx cm
-xx cm
+22 cm 
+22 cm
+22 cm
 
-inital waterlevel: xx cm
-
-
-xxxx l
+inital waterlevel: 15cm
 
 
-date;ec;ph
-2021-06-05;1.335;
+7,26 l
+
+
+date;ec;ph;waterlevel
+2021-06-05;1.335;;
+2021-06-06;1.838;150mm
 
 
 date;base;grow;bloom;type
 2021-06-05;2ml;1ml;3ml;flowering
+2021-06-06;1ml;1ml;0ml;custom grow
